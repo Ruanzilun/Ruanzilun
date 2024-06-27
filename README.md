@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ruanzilun
-- Interested in Bioinformatics, molecular biology.
+- Interested in Bioinformatics & Immunology.
 - Currently a PhD candidate at Wuhan University, China. Reach me through zilunruan@whu.edu.cn
 - Account created 2022/2/9.
 
